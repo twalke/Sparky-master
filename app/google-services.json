@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "664453477381",
+    "firebase_url": "https://sparky-fa538.firebaseio.com",
+    "project_id": "sparky-fa538",
+    "storage_bucket": "sparky-fa538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664453477381:android:d9c7acedf7195042",
+        "android_client_info": {
+          "package_name": "com.allisonwalke.sparky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664453477381-bn525vjblhnm25hoq5b47kjq6je3i20r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIdV7ElLHR4aFMUloo9W-DmBVMYj_Ho0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
